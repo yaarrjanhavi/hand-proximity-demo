@@ -21,14 +21,7 @@ python main.py
 - The rectangle position and size can be changed in the code to match your preference.
 
 ## Screenshots
+![Safe state](assets/safe_state.jpeg)
+![Warning state](assets/warning_state.jpeg)
+![Danger state](assets/danger_state.jpeg)
 
-SAFE state:
-
-![Safe state](assets/safe_state.png)
-
-WARNING state:
-![Warning_state}(assets/warning_state.png)
-
-DANGER state:
-
-![Danger state](assets/danger_state.png)
