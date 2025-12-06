@@ -19,3 +19,16 @@ python main.py
 
 - You may need to adjust the HSV skin-color range and distance thresholds depending on lighting and skin tone.
 - The rectangle position and size can be changed in the code to match your preference.
+
+## Screenshots
+
+SAFE state:
+
+![Safe state](assets/safe_state.png)
+
+WARNING state:
+![Warning_state}(assets/warning_state.png)
+
+DANGER state:
+
+![Danger state](assets/danger_state.png)
